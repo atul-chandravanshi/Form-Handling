@@ -25,3 +25,34 @@ It covers concepts like form validation, state management, and user-friendly UI.
 ---
 
 ## 📂 Project Structure
+Form-Handling/
+│── src/
+│ ├── Components/
+│ │ ├── Cards.jsx
+│ │ └── Form.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│── public/
+│── package.json
+│── vite.config.js
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/atul-chandravanshi/Form-Handling.git
+
+📚 Learning Outcomes
+
+How to handle forms in React
+How to integrate react-hook-form for validation
+Understanding controlled vs uncontrolled components
+Deploying React apps on Vercel
+
+👨‍💻 Author
+
+Atul Chandravanshi
